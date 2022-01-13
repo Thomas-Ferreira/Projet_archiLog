@@ -1,0 +1,10 @@
+C:\Users\thoma\OneDrive\Bureau\architecture logiciel\archiLog\Archi.Library\bin\Debug\netcoreapp3.1\Archi.Library.deps.json
+C:\Users\thoma\OneDrive\Bureau\architecture logiciel\archiLog\Archi.Library\bin\Debug\netcoreapp3.1\Archi.Library.dll
+C:\Users\thoma\OneDrive\Bureau\architecture logiciel\archiLog\Archi.Library\bin\Debug\netcoreapp3.1\Archi.Library.pdb
+C:\Users\thoma\OneDrive\Bureau\architecture logiciel\archiLog\Archi.Library\obj\Debug\netcoreapp3.1\Archi.Library.csproj.AssemblyReference.cache
+C:\Users\thoma\OneDrive\Bureau\architecture logiciel\archiLog\Archi.Library\obj\Debug\netcoreapp3.1\Archi.Library.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\thoma\OneDrive\Bureau\architecture logiciel\archiLog\Archi.Library\obj\Debug\netcoreapp3.1\Archi.Library.AssemblyInfoInputs.cache
+C:\Users\thoma\OneDrive\Bureau\architecture logiciel\archiLog\Archi.Library\obj\Debug\netcoreapp3.1\Archi.Library.AssemblyInfo.cs
+C:\Users\thoma\OneDrive\Bureau\architecture logiciel\archiLog\Archi.Library\obj\Debug\netcoreapp3.1\Archi.Library.csproj.CoreCompileInputs.cache
+C:\Users\thoma\OneDrive\Bureau\architecture logiciel\archiLog\Archi.Library\obj\Debug\netcoreapp3.1\Archi.Library.dll
+C:\Users\thoma\OneDrive\Bureau\architecture logiciel\archiLog\Archi.Library\obj\Debug\netcoreapp3.1\Archi.Library.pdb
