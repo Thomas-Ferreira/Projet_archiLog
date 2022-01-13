@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "VKSDG71Fs9Dmi2o6MbIi6vckPF58fqGzN1V3yGwGvnelbWue7YnZpvyuwujy6v4xdODUykhg797/KNnp8NhzIw==",
+  "dgSpecHash": "nyCEaIkaW7vrc8/ruMe8bZZWFHA28kVdXNpVgvo5GoqyOOsOQOAUTFo8WWAbIWOc+PNTuBaffcOLT8B+dLXN+A==",
   "success": true,
-  "projectFilePath": "C:\\Users\\thoma\\OneDrive\\Bureau\\architecture logiciel\\archiLog\\Archi.Library.Test\\Archi.Library.Test.csproj",
+  "projectFilePath": "C:\\Users\\thoma\\OneDrive\\Bureau\\architecture logiciel\\archiLog_cours\\Archi.Library.Test\\Archi.Library.Test.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\thoma\\.nuget\\packages\\coverlet.collector\\3.0.2\\coverlet.collector.3.0.2.nupkg.sha512",
     "C:\\Users\\thoma\\.nuget\\packages\\microsoft.codecoverage\\16.9.4\\microsoft.codecoverage.16.9.4.nupkg.sha512",

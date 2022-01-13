@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "1F7Ux46ieEkscNJPI7Hr2rHjKrpYTzi5s50bvij+hecTBMKNKLcyd2ZyHCHvMKyVKXiVrT7JF62mDXASRDtM4Q==",
+  "dgSpecHash": "6f0Z0tXmaBs5LrxU+LQdyGzQSfrnTI8hN1d9V+oxVP3z/6M3APIPjSgbdo6N/iUAZvFhaWQesQ9xolAzPZ5sOw==",
   "success": true,
-  "projectFilePath": "C:\\Users\\thoma\\OneDrive\\Bureau\\architecture logiciel\\archiLog\\Archi.Library\\Archi.Library.csproj",
+  "projectFilePath": "C:\\Users\\thoma\\OneDrive\\Bureau\\architecture logiciel\\archiLog_cours\\Archi.Library\\Archi.Library.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\thoma\\.nuget\\packages\\microsoft.aspnetcore.antiforgery\\2.2.0\\microsoft.aspnetcore.antiforgery.2.2.0.nupkg.sha512",
     "C:\\Users\\thoma\\.nuget\\packages\\microsoft.aspnetcore.authentication.abstractions\\2.2.0\\microsoft.aspnetcore.authentication.abstractions.2.2.0.nupkg.sha512",
@@ -36,6 +36,7 @@
     "C:\\Users\\thoma\\.nuget\\packages\\microsoft.aspnetcore.mvc.razor.extensions\\2.2.0\\microsoft.aspnetcore.mvc.razor.extensions.2.2.0.nupkg.sha512",
     "C:\\Users\\thoma\\.nuget\\packages\\microsoft.aspnetcore.mvc.razorpages\\2.2.0\\microsoft.aspnetcore.mvc.razorpages.2.2.0.nupkg.sha512",
     "C:\\Users\\thoma\\.nuget\\packages\\microsoft.aspnetcore.mvc.taghelpers\\2.2.0\\microsoft.aspnetcore.mvc.taghelpers.2.2.0.nupkg.sha512",
+    "C:\\Users\\thoma\\.nuget\\packages\\microsoft.aspnetcore.mvc.versioning\\5.0.0\\microsoft.aspnetcore.mvc.versioning.5.0.0.nupkg.sha512",
     "C:\\Users\\thoma\\.nuget\\packages\\microsoft.aspnetcore.mvc.viewfeatures\\2.2.0\\microsoft.aspnetcore.mvc.viewfeatures.2.2.0.nupkg.sha512",
     "C:\\Users\\thoma\\.nuget\\packages\\microsoft.aspnetcore.razor\\2.2.0\\microsoft.aspnetcore.razor.2.2.0.nupkg.sha512",
     "C:\\Users\\thoma\\.nuget\\packages\\microsoft.aspnetcore.razor.design\\2.2.0\\microsoft.aspnetcore.razor.design.2.2.0.nupkg.sha512",

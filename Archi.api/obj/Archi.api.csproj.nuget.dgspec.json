@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\thoma\\OneDrive\\Bureau\\architecture logiciel\\archiLog\\Archi.api\\Archi.api.csproj": {}
+    "C:\\Users\\thoma\\OneDrive\\Bureau\\architecture logiciel\\archiLog_cours\\Archi.api\\Archi.api.csproj": {}
   },
   "projects": {
-    "C:\\Users\\thoma\\OneDrive\\Bureau\\architecture logiciel\\archiLog\\Archi.api\\Archi.api.csproj": {
+    "C:\\Users\\thoma\\OneDrive\\Bureau\\architecture logiciel\\archiLog_cours\\Archi.api\\Archi.api.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\thoma\\OneDrive\\Bureau\\architecture logiciel\\archiLog\\Archi.api\\Archi.api.csproj",
+        "projectUniqueName": "C:\\Users\\thoma\\OneDrive\\Bureau\\architecture logiciel\\archiLog_cours\\Archi.api\\Archi.api.csproj",
         "projectName": "Archi.api",
-        "projectPath": "C:\\Users\\thoma\\OneDrive\\Bureau\\architecture logiciel\\archiLog\\Archi.api\\Archi.api.csproj",
+        "projectPath": "C:\\Users\\thoma\\OneDrive\\Bureau\\architecture logiciel\\archiLog_cours\\Archi.api\\Archi.api.csproj",
         "packagesPath": "C:\\Users\\thoma\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\thoma\\OneDrive\\Bureau\\architecture logiciel\\archiLog\\Archi.api\\obj\\",
+        "outputPath": "C:\\Users\\thoma\\OneDrive\\Bureau\\architecture logiciel\\archiLog_cours\\Archi.api\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\thoma\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -28,8 +28,8 @@
           "netcoreapp3.1": {
             "targetAlias": "netcoreapp3.1",
             "projectReferences": {
-              "C:\\Users\\thoma\\OneDrive\\Bureau\\architecture logiciel\\archiLog\\Archi.Library\\Archi.Library.csproj": {
-                "projectPath": "C:\\Users\\thoma\\OneDrive\\Bureau\\architecture logiciel\\archiLog\\Archi.Library\\Archi.Library.csproj"
+              "C:\\Users\\thoma\\OneDrive\\Bureau\\architecture logiciel\\archiLog_cours\\Archi.Library\\Archi.Library.csproj": {
+                "projectPath": "C:\\Users\\thoma\\OneDrive\\Bureau\\architecture logiciel\\archiLog_cours\\Archi.Library\\Archi.Library.csproj"
               }
             }
           }
@@ -44,6 +44,10 @@
         "netcoreapp3.1": {
           "targetAlias": "netcoreapp3.1",
           "dependencies": {
+            "Microsoft.AspNetCore.Mvc.Versioning": {
+              "target": "Package",
+              "version": "[5.0.0, )"
+            },
             "Microsoft.EntityFrameworkCore": {
               "target": "Package",
               "version": "[3.1.22, )"
@@ -85,14 +89,14 @@
         }
       }
     },
-    "C:\\Users\\thoma\\OneDrive\\Bureau\\architecture logiciel\\archiLog\\Archi.Library\\Archi.Library.csproj": {
+    "C:\\Users\\thoma\\OneDrive\\Bureau\\architecture logiciel\\archiLog_cours\\Archi.Library\\Archi.Library.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\thoma\\OneDrive\\Bureau\\architecture logiciel\\archiLog\\Archi.Library\\Archi.Library.csproj",
+        "projectUniqueName": "C:\\Users\\thoma\\OneDrive\\Bureau\\architecture logiciel\\archiLog_cours\\Archi.Library\\Archi.Library.csproj",
         "projectName": "Archi.Library",
-        "projectPath": "C:\\Users\\thoma\\OneDrive\\Bureau\\architecture logiciel\\archiLog\\Archi.Library\\Archi.Library.csproj",
+        "projectPath": "C:\\Users\\thoma\\OneDrive\\Bureau\\architecture logiciel\\archiLog_cours\\Archi.Library\\Archi.Library.csproj",
         "packagesPath": "C:\\Users\\thoma\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\thoma\\OneDrive\\Bureau\\architecture logiciel\\archiLog\\Archi.Library\\obj\\",
+        "outputPath": "C:\\Users\\thoma\\OneDrive\\Bureau\\architecture logiciel\\archiLog_cours\\Archi.Library\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\thoma\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -124,6 +128,10 @@
             "Microsoft.AspNetCore.Mvc": {
               "target": "Package",
               "version": "[2.2.0, )"
+            },
+            "Microsoft.AspNetCore.Mvc.Versioning": {
+              "target": "Package",
+              "version": "[5.0.0, )"
             },
             "Microsoft.EntityFrameworkCore": {
               "target": "Package",
